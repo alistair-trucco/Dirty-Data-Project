@@ -1,5 +1,5 @@
 # Dirty Data: Halloween Candy
-Cleaning, wrangling and combining poorly collected, formatted and incongruous datasets in RStudio.
+Cleaning, wrangling and combining messy datasets in RStudio.
 
 ## About the Project
 
